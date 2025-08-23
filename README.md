@@ -20,7 +20,7 @@
 
 - 📧 [Email](mailto:nkn33785@gmail.com)
 - 🌐 [LinkedIn](https://www.linkedin.com/in/nilesh5566/)
-- 🌍 [Portfolio](https://nileshnayakportfolio.netlify.app/)
+- 🌍 [Portfolio](https://nileshnayak.vercel.app/)
 - 💻 [LeetCode](https://leetcode.com/u/nileshnayak656854)
 - 💻 [Codeforces](https://codeforces.com/profile/Nilesh23)
 
