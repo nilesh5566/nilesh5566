@@ -16,12 +16,6 @@
 
 ---
 
-## 📫 **Contact**
-
-- 📧 [Email](mailto:nkn33785@gmail.com)
-- 🌐 [LinkedIn](https://www.linkedin.com/in/nilesh5566/)
-- 💻 [LeetCode](https://leetcode.com/u/nileshnayak656854)
-
 
 ---
 
