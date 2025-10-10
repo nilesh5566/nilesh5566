@@ -17,15 +17,7 @@
 ---
 
 
----
 
-## 🏆 **Achievements**
-
-![LeetCode Problems](https://img.shields.io/badge/LeetCode-1500%2B%20Problems-orange?style=for-the-badge&logo=leetcode&logoColor=white)
-![LeetCode Rating](https://img.shields.io/badge/LeetCode-1869%2B%20Rating-orange?style=for-the-badge&logo=leetcode&logoColor=white)
-![Coding Contest AIR](https://img.shields.io/badge/AIR%20419%20(National%20Level)-important?style=for-the-badge)
-
----
 
 ## 💻 **Key Technologies**
 
