@@ -115,7 +115,7 @@
 <td width="50%">
 
 ### 🔐 Post-Quantum Cryptography Messaging App
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nilesh5566)
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/nilesh5566](https://github.com/nilesh5566/pqc_Chat_App))
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>&nbsp;
