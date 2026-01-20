@@ -8,7 +8,7 @@
 
 </div>
 
-<div align="center">
+<!-- <div align="center">
 
 ### 💫 *"One day at a time."*
 
@@ -19,7 +19,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nilesh5566)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nkn33785@gmail.com)
 
-</div>
+</div> -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -455,7 +455,7 @@ const nileshFocus: CurrentFocus = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="center">
+<!-- <div align="center">
 
 ## 📫 Let's Connect & Collaborate!
 
@@ -491,4 +491,4 @@ I'm always excited to collaborate on interesting projects, discuss technology, o
 
 ### ⭐️ From [Nilesh Kumar Nayak](https://github.com/nilesh5566) | Made with 💙 and ☕
 
-</div>
+</div> -->
