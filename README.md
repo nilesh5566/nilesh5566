@@ -7,19 +7,18 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F7B93E&center=true&vCenter=true&width=600&lines=M.Tech+%40+IIIT+Allahabad+%7C+Full+Stack+Engineer;Competitive+Programmer+%7C+Problem+Solver" alt="Subtitle" />
 
 </div>
-
-<!-- <div align="center">
+<!--[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/nilesh5566)-->
+<div align="center">
 
 ### 💫 *"One day at a time."*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nilesh5566)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://nileshnayak.vercel.app/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/nileshnayak656854/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/nilesh5566)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nilesh5566)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nkn33785@gmail.com)
 
-</div> -->
+</div> 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -455,7 +454,7 @@ const nileshFocus: CurrentFocus = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- <div align="center">
+<div align="center">
 
 ## 📫 Let's Connect & Collaborate!
 
@@ -465,7 +464,6 @@ I'm always excited to collaborate on interesting projects, discuss technology, o
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://nileshnayak.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nkn33785@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/nileshnayak656854/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/nilesh5566)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nilesh5566)
 
 <br>
@@ -491,4 +489,4 @@ I'm always excited to collaborate on interesting projects, discuss technology, o
 
 ### ⭐️ From [Nilesh Kumar Nayak](https://github.com/nilesh5566) | Made with 💙 and ☕
 
-</div> -->
+</div> 
