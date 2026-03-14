@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,30:0f0c29,60:302b63,100:24243e&height=280&section=header&text=Nilesh%20Kumar%20Nayak&fontSize=58&fontColor=ffffff&fontAlignY=42&stroke=A78BFA&strokeWidth=2&desc=Full%20Stack%20Engineer%20%7C%20M.Tech%20%40%20IIIT%20Allahabad&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,25,30&height=280&section=header&text=Nilesh%20Kumar%20Nayak&fontSize=62&fontColor=fff&fontAlignY=42&desc=Full%20Stack%20Engineer%20%7C%20M.Tech%20%40%20IIIT%20Allahabad&descAlignY=62&descSize=20&animation=twinkling" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=A78BFA&background=00000000&center=true&vCenter=true&multiline=false&width=750&height=50&lines=%F0%9F%94%90+Building+Quantum-Resistant+Systems;%F0%9F%8E%AF+1000%2B+DSA+Problems+Conquered;%E2%9A%A1+WebAssembly+%2B+Post-Quantum+Cryptography;%F0%9F%9A%80+Full+Stack+%7C+React+%2B+Next.js+%2B+Spring+Boot;%F0%9F%A7%A0+IIIT+Allahabad+%7C+M.Tech+IT+2027)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=750&height=50&lines=%F0%9F%94%90+Building+Quantum-Resistant+Systems;%F0%9F%8E%AF+1000%2B+DSA+Problems+Conquered;%E2%9A%A1+WebAssembly+%2B+Post-Quantum+Cryptography;%F0%9F%9A%80+Full+Stack+%7C+React+%2B+Next.js+%2B+Spring+Boot;%F0%9F%A7%A0+IIIT+Allahabad+%7C+M.Tech+IT+2027)](https://git.io/typing-svg)
 
 <br/>
 
@@ -567,6 +567,6 @@ impact = {
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=A78BFA&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,25,30&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=twinkling" width="100%"/>
 
 </div>
