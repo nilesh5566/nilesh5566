@@ -63,7 +63,8 @@ const nilesh: Developer = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=nilesh5566&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%" alt="Trophies"/>
+<img src="https://github-trophies.vercel.app/?username=nilesh5566&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=4" width="100%" alt="Trophies Row 1"/>
+<img src="https://github-trophies.vercel.app/?username=nilesh5566&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=4&rank=B,C,A,AA" width="100%" alt="Trophies Row 2"/>
 
 <br/><br/>
 
