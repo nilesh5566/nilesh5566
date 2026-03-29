@@ -132,6 +132,7 @@ const nilesh: Developer = {
 
 ### 🔐 Post-Quantum Cryptography Messaging App
 <a href="https://github.com/nilesh5566/pqc_Chat_App"><img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://chitchatkro.netlify.app/"><img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/FEATURED-FFD700?style=flat-square"/>
 
 <img align="right" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="35"/>
