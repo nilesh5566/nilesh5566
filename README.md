@@ -8,16 +8,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=750&height=50&lines=%F0%9F%94%90+Building+Quantum-Resistant+Systems;%F0%9F%8E%AF+1000%2B+DSA+Problems+Conquered;%E2%9A%A1+WebAssembly+%2B+Post-Quantum+Cryptography;%F0%9F%9A%80+Full+Stack+%7C+React+%2B+Next.js+%2B+Spring+Boot;%F0%9F%A7%A0+IIIT+Allahabad+%7C+M.Tech+IT+2027)](https://git.io/typing-svg)
 
-<br/>
-
-<a href="https://linkedin.com/in/nilesh5566"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://nileshnayak.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/></a>
-<a href="https://leetcode.com/u/nileshnayak656854/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
-<a href="https://github.com/nilesh5566"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="mailto:nkn33785@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-<br/><br/>
-
 <img src="https://komarev.com/ghpvc/?username=nilesh5566&label=Profile+Views&color=7c3aed&style=for-the-badge" />
 
 </div>
@@ -541,12 +531,6 @@ impact = {
 ## 🤝 Let's Connect
 
 <div align="center">
-
-<a href="https://linkedin.com/in/nilesh5566"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://nileshnayak.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/></a>
-<a href="mailto:nkn33785@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://leetcode.com/u/nileshnayak656854/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
-<a href="https://github.com/nilesh5566"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/><br/>
 
