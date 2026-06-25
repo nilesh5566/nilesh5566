@@ -673,13 +673,13 @@ passion:
   <a href="https://linkedin.com/in/nilesh5566">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
   </a>
-  <!-- <a href="https://nileshnayak.vercel.app/">
+   <a href="https://nileshnayak.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" height="35"/>
   </a>
   <a href="https://leetcode.com/u/nileshnayak656854/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" height="35"/>
   </a>
-  <a href="https://codeforces.com/profile/nilesh5566">
+ <!-- <a href="https://codeforces.com/profile/nilesh5566">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white" height="35"/>
   </a> -->
   <a href="mailto:nkn33785@gmail.com">
