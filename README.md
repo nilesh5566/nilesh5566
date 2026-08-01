@@ -9,26 +9,30 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=850&height=50&lines=%F0%9F%94%90+Building+Quantum-Resistant+Systems;%F0%9F%8F%86+LeetCode+Knight+%E2%80%94+Peak+Rating+1869;%E2%9A%A1+WebAssembly+%2B+Post-Quantum+Cryptography;%F0%9F%9A%80+Full+Stack+%7C+React+%2B+Next.js+%2B+Spring+Boot;%F0%9F%A7%A0+IIIT+Allahabad+%7C+M.Tech+IT+2027;%F0%9F%A4%96+Currently+Learning+AI+%2F+ML+%F0%9F%93%88;%F0%9F%9B%A1%EF%B8%8F+Network+Security+%7C+AI%2FML+%7C+SaaS+Builder)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=nilesh5566&label=Profile+Views&color=7c3aed&style=for-the-badge" />
+&nbsp;
+<img src="https://img.shields.io/badge/Status-Open_to_Work-success?style=for-the-badge" />
+&nbsp;
+<img src="https://img.shields.io/badge/M.Tech_IT-IIIT_Allahabad-1E3A5F?style=for-the-badge" />
 
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ---
 
-## 🧠 About Me
+## 👋 About Me
 
-<img align="right" alt="3D Coding GIF" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+<img align="right" alt="3D Coding GIF" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+
+I'm a Full Stack Engineer and M.Tech (IT) candidate at **IIIT Allahabad**, focused on building **quantum-resistant, security-first software** and shipping production-grade **AI-powered SaaS products**. My work sits at the intersection of applied cryptography, systems performance (C/WebAssembly), and modern full-stack development (React, Next.js, Spring Boot).
 
 ```typescript
 const nilesh: Developer = {
   name      : "Nilesh Kumar Nayak",
-  location  : "Allahabad, India 🇮🇳",
+  location  : "Prayagraj (Allahabad), India 🇮🇳",
   education : [
-    "🎓 M.Tech IT  @ IIIT Allahabad  (2025–2027)",
-    "🎓 B.Tech ME  @ MMMUT           (2021–2025)"
+    "🎓 M.Tech, Information Technology — IIIT Allahabad (2025–2027)",
+    "🎓 B.Tech, Mechanical Engineering — MMMUT (2021–2025)"
   ],
   expertise : [
     "Post-Quantum Cryptography 🔐",
@@ -38,17 +42,15 @@ const nilesh: Developer = {
     "AI-Powered SaaS Products  🤖",
     "System Design & DSA       🏗️"
   ],
-  learning  : [
+  currentlyLearning : [
     "Machine Learning & Deep Learning 🧠",
     "Neural Networks & NLP            📖",
     "Computer Vision                  👁️",
     "MLOps & Model Deployment         🚀"
   ],
-  currently : "Building quantum-safe systems + diving deep into AI/ML",
-  cp_rating : "LeetCode Knight | Peak Rating 1869 🏆",
-  dsa       : "1000+ problems — LeetCode & Codeforces",
-  contact   : "nkn33785@gmail.com | +91-6394169461",
-  fun_fact  : "I convert ☕ into quantum-safe code 🔐"
+  competitiveProgramming : "LeetCode Knight | Peak Rating 1869 🏆",
+  problemsSolved         : "1000+ (LeetCode & Codeforces)",
+  motto                  : "One day at a time — build something quantum-safe and amazing."
 };
 ```
 
@@ -56,53 +58,41 @@ const nilesh: Developer = {
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🏆 Stats at a Glance
+## 🏆 Highlights at a Glance
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/LeetCode%20Knight-1869%20Peak-blueviolet?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/DSA%20Problems-1000%2B-7c3aed?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Hackathons%20Organized-5%2B-orange?style=for-the-badge&logo=devpost&logoColor=white"/>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Projects%20Deployed-20%2B-success?style=for-the-badge&logo=vercel&logoColor=white"/>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Students%20Mentored-100%2B-blue?style=for-the-badge&logo=academia&logoColor=white"/>
-</td>
-</tr>
-</table>
+| 🏅 LeetCode Knight | 🧩 DSA Problems | 🎤 Hackathons Organized | 🚀 Projects Deployed | 👨‍🏫 Students Mentored |
+|:---:|:---:|:---:|:---:|:---:|
+| **Peak 1869** | **1000+** | **5+** | **20+** | **100+** |
 
 </div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## 🛠️ Tech Stack
 
 <div align="center">
 
+**Languages**
+<br/>
 <img src="https://skillicons.dev/icons?i=java,js,ts,cpp,c,python&theme=dark&perline=6" />
+
+**Frontend & Frameworks**
 <br/>
 <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css&theme=dark&perline=6" />
+
+**Backend & Databases**
 <br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,mysql,firebase&theme=dark&perline=6" />
+
+**Tools & Platforms**
 <br/>
 <img src="https://skillicons.dev/icons?i=git,docker,postman,vscode,github,linux&theme=dark&perline=6" />
 
-<br/><br/>
+<br/>
 
-**⚡ Specializations**
+**Specialized Stack**
 
 ![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white)
 ![Post-Quantum Crypto](https://img.shields.io/badge/Post--Quantum_Crypto-6D28D9?style=for-the-badge&logo=gnuprivacyguard&logoColor=white)
@@ -122,9 +112,7 @@ const nilesh: Developer = {
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🚀 Projects
+## 🚀 Featured Projects
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=20%2B+Projects+%7C+Cryptography+%7C+AI%2FML+%7C+Full+Stack+%7C+Network+Security+%7C+Open+Source" />
@@ -137,36 +125,36 @@ const nilesh: Developer = {
 <td width="50%" valign="top">
 
 ### 🔐 Post-Quantum Secure Messaging App
-<a href="https://github.com/nilesh5566/pqc_Chat_App"><img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://chitchatkro.netlify.app/"><img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/FEATURED-FFD700?style=flat-square"/>
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nilesh5566/pqc_Chat_App)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://chitchatkro.netlify.app/)
+![Featured](https://img.shields.io/badge/FEATURED-FFD700?style=flat-square)
 
 **`Next.js` `Node.js` `MongoDB` `Socket.io` `C` `WebAssembly`**
 
-A quantum-resistant end-to-end encrypted real-time chat platform. Built with **NIST-standardized Kyber-1024** KEM for 256-bit post-quantum security. The C-based `liboqs` library is compiled to WebAssembly via **Emscripten** for browser-native execution — eliminating all server round-trips for key operations.
+A quantum-resistant, end-to-end encrypted real-time chat platform built on the **NIST-standardized Kyber-1024** key encapsulation mechanism for 256-bit post-quantum security. The core `liboqs` cryptographic library (C) is compiled to **WebAssembly via Emscripten**, enabling native-speed key operations directly in the browser with zero server round-trips.
 
-> 🔑 Kyber-1024 + AES-256-GCM hybrid encryption
-> ⚡ **85% faster** key generation (3s → 500ms) via WASM
-> 🛡️ PBKDF2 (100K iterations) · IndexedDB key storage
-> 🔒 Zero server-side key exposure architecture
-> 📨 **99.9%** message delivery reliability via WebSocket
+- 🔑 Kyber-1024 + AES-256-GCM hybrid encryption
+- ⚡ **85% faster** key generation (3s → 500ms) via WASM
+- 🛡️ PBKDF2 (100K iterations) with IndexedDB key storage
+- 🔒 Zero server-side key exposure architecture
+- 📨 **99.9%** message delivery reliability over WebSocket
 
 </td>
 <td width="50%" valign="top">
 
-### 🎯 TalentLaunch — CS Career Platform
-<a href="https://github.com/nilesh5566/TalentLaunch"><img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/FEATURED-FFD700?style=flat-square"/>
+### 🎯 TalentLaunch — AI Career Platform
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nilesh5566/TalentLaunch)
+![Featured](https://img.shields.io/badge/FEATURED-FFD700?style=flat-square)
 
 **`Next.js 14` `TypeScript` `MongoDB` `Groq API` `JWT` `bcrypt`**
 
-A full-stack SaaS career platform aggregating **1,500+ live jobs** from 20 global APIs. Features role-based auth (Student / Recruiter / Admin) and **26 AI-powered career tools** powered by Groq Llama 3.3 70B.
+A full-stack SaaS career platform aggregating **1,500+ live job listings** from 20 global APIs, with role-based auth (Student / Recruiter / Admin) and **26 AI-powered career tools** built on Groq's Llama 3.3 70B.
 
-> 🤖 Groq API (Llama 3.3 70B) + multi-provider fallback (Gemini, Cohere, Mistral)
-> 📄 ATS resume scorer · Mock interview simulator · Skill gap analyzer
-> 🎮 Gamification: XP, badges, leaderboards, Kanban job tracker
-> 📑 PDF resume parser · PWA support · Real-time community features
-> 🔐 JWT + bcrypt auth · Role-based access (Student / Recruiter / Admin)
+- 🤖 Groq API (Llama 3.3 70B) with multi-provider fallback (Gemini, Cohere, Mistral)
+- 📄 ATS resume scorer, mock interview simulator, skill-gap analyzer
+- 🎮 Gamification: XP, badges, leaderboards, Kanban job tracker
+- 📑 PDF resume parser, PWA support, real-time community features
+- 🔐 JWT + bcrypt auth with role-based access control
 
 </td>
 </tr>
@@ -175,34 +163,34 @@ A full-stack SaaS career platform aggregating **1,500+ live jobs** from 20 globa
 <td width="50%" valign="top">
 
 ### 🛡️ Deauth Attack Detection Dashboard
-<a href="https://github.com/nilesh5566/deauth-detection"><img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/FEATURED-FFD700?style=flat-square"/>
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nilesh5566/deauth-detection)
+![Featured](https://img.shields.io/badge/FEATURED-FFD700?style=flat-square)
 
 **`Python` `Flask` `Scapy` `scikit-learn` `Socket.IO` `SQLite`**
 
-Real-time WiFi security monitor that captures all **IEEE 802.11 frames** via Scapy + Npcap, classifying into 9 categories with 6 detection algorithms including **Isolation Forest** ML anomaly detection.
+A real-time Wi-Fi security monitor that captures **IEEE 802.11 frames** via Scapy + Npcap, classifying traffic into 9 attack categories using 6 detection algorithms, including **Isolation Forest** ML-based anomaly detection.
 
-> 📡 Captures all 802.11 frames; classifies 9 attack categories
-> 🔍 Multi-method: Z-score anomaly, threshold analysis, broadcast MAC detection (**90% accuracy**), reason code analysis
-> 🔔 Telegram / email alerting · Windows Firewall MAC blocking · Auto WiFi reconnect
-> 🗄️ 3-table SQLite schema with optimized alert indexing
-> ✅ **191 test assertions** across 5 suites validating all detection modules
+- 📡 Captures all 802.11 frames and classifies 9 attack categories
+- 🔍 Multi-method detection: Z-score anomaly, threshold analysis, broadcast MAC detection (**90% accuracy**), reason-code analysis
+- 🔔 Telegram/email alerting with Windows Firewall MAC blocking and auto Wi-Fi reconnect
+- 🗄️ 3-table SQLite schema with optimized alert indexing
+- ✅ **191 test assertions** across 5 suites validating all detection modules
 
 </td>
 <td width="50%" valign="top">
 
 ### 🎨 GhostLayer AI — Background Remover
-<a href="https://github.com/nilesh5566/Background-Remover-App"><img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nilesh5566/Background-Remover-App)
 
 **`React` `Spring Boot` `Clipdrop API` `Razorpay` `JWT`**
 
-A credit-based AI SaaS platform for automated background removal with **95% accuracy** via the Clipdrop API. Full subscription model with **Razorpay** payment integration, JWT authentication, and role-based access control.
+A credit-based AI SaaS platform for automated background removal with **95% accuracy** via the Clipdrop API, including a full subscription model with Razorpay payments and role-based access control.
 
-> 🤖 Clipdrop API — 95% background removal accuracy
-> 💳 Razorpay payment gateway + credit subscription model
-> 🔑 JWT auth + role-based access control (User / Admin)
-> ⚡ **60% faster** processing via Base64 encoding optimization
-> 📱 Fully responsive UI with real-time credit tracking
+- 🤖 Clipdrop API — 95% background removal accuracy
+- 💳 Razorpay payment gateway with credit-based subscription model
+- 🔑 JWT auth with role-based access control (User / Admin)
+- ⚡ **60% faster** processing via Base64 encoding optimization
+- 📱 Fully responsive UI with real-time credit tracking
 
 </td>
 </tr>
@@ -211,32 +199,32 @@ A credit-based AI SaaS platform for automated background removal with **95% accu
 <td width="50%" valign="top">
 
 ### 🔐 RC4 Encryption Tool
-<a href="https://github.com/nilesh5566/rc4-tool"><img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nilesh5566/rc4-tool)
 
 **`Next.js` `C` `WebAssembly` `Tailwind CSS`**
 
-RC4 stream cipher implemented in C and compiled to **WebAssembly** for near-native browser performance. Fully client-side with zero server dependency — real-time encryption/decryption with live performance metrics dashboard.
+An RC4 stream cipher implemented in C and compiled to **WebAssembly** for near-native browser performance — fully client-side, with zero server dependency and a live performance metrics dashboard.
 
-> 🔐 C → WASM compiled RC4 cipher via Emscripten
-> 🚀 **90% faster** than equivalent pure JavaScript implementation
-> 📊 Real-time performance metrics — throughput, latency, key schedule
-> 🌐 100% client-side · Zero server round-trips · Instant clipboard
+- 🔐 C → WASM compiled RC4 cipher via Emscripten
+- 🚀 **90% faster** than an equivalent pure JavaScript implementation
+- 📊 Real-time metrics: throughput, latency, key schedule
+- 🌐 100% client-side with zero server round-trips
 
 </td>
 <td width="50%" valign="top">
 
 ### 💬 Real-Time Chat Application
-<a href="https://github.com/nilesh5566/chat-app"><img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nilesh5566/chat-app)
 
 **`Next.js` `Socket.io` `MongoDB` `NextAuth.js`**
 
-Full-stack real-time messaging platform over **WebSocket** bidirectional communication. Supports live typing indicators, push notifications, OAuth via NextAuth.js, and scalable MongoDB-backed message persistence.
+A full-stack real-time messaging platform over bidirectional WebSocket communication, with live typing indicators, push notifications, and OAuth via NextAuth.js.
 
-> ⚡ WebSocket bidirectional real-time messaging
-> 💬 Live typing indicators + push notifications
-> 🔐 NextAuth.js OAuth (Google, GitHub) & credential auth
-> 👥 Friend management system with request/accept flow
-> 🗄️ Scalable MongoDB architecture for high-concurrency messaging
+- ⚡ WebSocket bidirectional real-time messaging
+- 💬 Live typing indicators and push notifications
+- 🔐 NextAuth.js OAuth (Google, GitHub) and credential auth
+- 👥 Friend management with request/accept flow
+- 🗄️ Scalable MongoDB architecture for high-concurrency messaging
 
 </td>
 </tr>
@@ -245,33 +233,32 @@ Full-stack real-time messaging platform over **WebSocket** bidirectional communi
 <td width="50%" valign="top">
 
 ### 💼 Job Portal Web App
-<a href="https://github.com/nilesh5566/Job-Portal"><img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nilesh5566/Job-Portal)
 
 **`React` `Node.js` `MongoDB` `Redux Toolkit` `Framer Motion`**
 
-Full-featured job marketplace with dual candidate & recruiter flows. Features a comprehensive admin panel with applicant tracking system, Multer-powered resume uploads, and smooth Framer Motion animations.
+A full-featured job marketplace with dual candidate and recruiter flows, an admin panel with applicant tracking, resume uploads, and Framer Motion animations.
 
-> 👤 Dual-role: Candidate & Recruiter dashboards
-> 🗂️ Admin panel with full applicant tracking system
-> 🔁 Redux Toolkit global state management
-> 📁 Multer file uploads for resumes & documents
-> 🎞️ Framer Motion animations throughout the UI
+- 👤 Dual-role Candidate and Recruiter dashboards
+- 🗂️ Admin panel with full applicant tracking system
+- 🔁 Redux Toolkit for global state management
+- 📁 Multer-powered file uploads for resumes and documents
 
 </td>
 <td width="50%" valign="top">
 
 ### 🛒 E-Commerce Platform
-<a href="https://github.com/nilesh5566/shopping_App"><img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://shoppingapappwithnilesh.netlify.app/"><img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/></a>
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nilesh5566/shopping_App)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://shoppingapappwithnilesh.netlify.app/)
 
 **`React` `Vite` `MongoDB` `Express.js`**
 
-End-to-end e-commerce solution with product catalog, shopping cart, order management, and payment processing. Vite-powered for lightning-fast dev builds with a clean RESTful API and responsive mobile-first UI.
+An end-to-end e-commerce solution with product catalog, cart, order management, and payment processing on a Vite-powered, mobile-first UI.
 
-> 🛍️ Full cart + checkout + order management flow
-> 💳 Payment gateway integration
-> 🔍 Product catalog with search & category filters
-> ⚡ Vite-powered build · Fully responsive mobile-first UI
+- 🛍️ Full cart, checkout, and order management flow
+- 💳 Payment gateway integration
+- 🔍 Product catalog with search and category filters
+- ⚡ Vite-powered build with a responsive mobile-first UI
 
 </td>
 </tr>
@@ -280,31 +267,29 @@ End-to-end e-commerce solution with product catalog, shopping cart, order manage
 <td width="50%" valign="top">
 
 ### 🔐 PKI Project
-<a href="https://github.com/nilesh5566/PKI-Project"><img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nilesh5566/PKI-Project)
 
 **`Cryptography` `Digital Certificates` `Python` `OpenSSL`**
 
-Hands-on implementation of **Public Key Infrastructure**: RSA key pair generation, Certificate Signing Requests, digital certificate issuance & validation, digital signature creation/verification, and full certificate chain trust validation.
+A hands-on implementation of Public Key Infrastructure: RSA key pair generation, Certificate Signing Requests, digital certificate issuance and validation, and full certificate chain trust validation.
 
-> 🔑 RSA key pair generation + CSR workflow
-> ✍️ Digital signature creation & verification
-> 🏛️ Certificate chain validation (Root → Intermediate → Leaf)
-> 🌐 Real-world PKI trust model from scratch
+- 🔑 RSA key pair generation and CSR workflow
+- ✍️ Digital signature creation and verification
+- 🏛️ Certificate chain validation (Root → Intermediate → Leaf)
 
 </td>
 <td width="50%" valign="top">
 
-### 🧠 LogBERT — Anomaly Detection
-<a href="https://github.com/nilesh5566/logbert-anomaly-detection"><img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+### 🧠 LogBERT — Log Anomaly Detection
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nilesh5566/logbert-anomaly-detection)
 
 **`Python` `BERT` `PyTorch` `Deep Learning` `NLP`**
 
-**BERT-based** deep learning system for detecting anomalies in system log data. Models log sequences as natural language to surface irregular patterns — bridging transformer NLP with DevOps and infrastructure security.
+A BERT-based deep learning system for detecting anomalies in system log data, modeling log sequences as natural language to surface irregular patterns — bridging transformer NLP with infrastructure security.
 
-> 🤖 BERT transformer fine-tuned on log sequence modeling
-> 🔍 Real-time anomaly scoring on live log streams
-> 🛡️ Intrusion detection & system health monitoring
-> 🌉 NLP + infrastructure security convergence
+- 🤖 BERT transformer fine-tuned on log sequence modeling
+- 🔍 Real-time anomaly scoring on live log streams
+- 🛡️ Intrusion detection and system health monitoring
 
 </td>
 </tr>
@@ -313,32 +298,29 @@ Hands-on implementation of **Public Key Infrastructure**: RSA key pair generatio
 <td width="50%" valign="top">
 
 ### 📊 Sorting Algorithm Visualizer
-<a href="https://github.com/nilesh5566/Sorting-Visualizer"><img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nilesh5566/Sorting-Visualizer)
 
 **`HTML5` `CSS3` `Vanilla JavaScript`**
 
-Interactive educational DSA tool animating 5 sorting algorithms step-by-step with adjustable speed, comparison & swap counters, and real-time complexity tracking. Zero dependencies — pure vanilla JS.
+An interactive educational tool that animates 5 sorting algorithms step-by-step with adjustable speed and real-time comparison/swap counters — zero dependencies.
 
-> 🔵 Bubble · Merge · Quick · Insertion · Selection sort
-> ⏱️ Adjustable speed + step-by-step mode
-> 📊 Real-time comparison & swap counters
-> 🧰 Pure vanilla JS — zero frameworks or libraries
+- 🔵 Bubble, Merge, Quick, Insertion, and Selection sort
+- ⏱️ Adjustable speed with step-by-step mode
+- 📊 Real-time comparison and swap counters
 
 </td>
 <td width="50%" valign="top">
 
 ### 🔢 LeetCode Solutions Archive
-<a href="https://github.com/nilesh5566/LeetCode"><img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/LeetCode_Knight-1869_Peak-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nilesh5566/LeetCode)
+![LeetCode Knight](https://img.shields.io/badge/LeetCode_Knight-1869_Peak-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 
 **`Java` `C++` `Data Structures & Algorithms`**
 
-Organized archive of **1000+** solved LeetCode problems by topic and difficulty, maintained by a **LeetCode Knight** (peak rating 1869). Covers Arrays, Linked Lists, Trees, Graphs, DP, Greedy, Backtracking, Sliding Window — all optimized for time and space complexity.
+An organized archive of **1000+** solved LeetCode problems by topic and difficulty, covering Arrays, Linked Lists, Trees, Graphs, DP, Greedy, Backtracking, and Sliding Window — all optimized for time and space complexity.
 
-> 🎯 1000+ problems organized by topic & difficulty
-> 🌲 Arrays · Trees · Graphs · DP · Backtracking · Sliding Window
-> 🏆 LeetCode Knight — Peak Contest Rating **1869**
-> ⏱️ All solutions optimized for time & space complexity
+- 🎯 1000+ problems organized by topic and difficulty
+- 🏆 LeetCode Knight — peak contest rating **1869**
 
 </td>
 </tr>
@@ -347,31 +329,29 @@ Organized archive of **1000+** solved LeetCode problems by topic and difficulty,
 <td width="50%" valign="top">
 
 ### 🔥 PYROSENSE — IoT Fire Detection
-<a href="https://github.com/nilesh5566/PYROSENSE"><img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nilesh5566/PYROSENSE)
 
 **`IoT` `Sensor Integration` `Arduino` `Alert Systems`**
 
-Real-time fire and smoke detection system with sensor data ingestion, threshold-based alert triggering, and emergency notification dispatch. Designed for reliability and low-latency detection in safety-critical environments.
+A real-time fire and smoke detection system with sensor data ingestion, threshold-based alerting, and emergency notification dispatch, designed for low-latency, safety-critical environments.
 
-> 🔥 Real-time fire & smoke sensor monitoring
-> ⚠️ Threshold-based intelligent alert triggering
-> 📱 Emergency notification dispatch (SMS / App)
-> 🛡️ Low-latency safety-critical hardware architecture
+- 🔥 Real-time fire and smoke sensor monitoring
+- ⚠️ Threshold-based intelligent alert triggering
+- 📱 Emergency notification dispatch (SMS / App)
 
 </td>
 <td width="50%" valign="top">
 
 ### 📚 Online Learning Platform
-<a href="https://github.com/nilesh5566/Oline-Learning-Platform"><img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nilesh5566/Oline-Learning-Platform)
 
 **`React` `Node.js` `MongoDB` `Express.js`**
 
-Feature-rich ed-tech platform for online course delivery. Supports course creation, enrollment, video/content management, and progress tracking with dedicated instructor and student roles — full MERN stack optimized for content-heavy delivery.
+A feature-rich ed-tech platform for online course delivery, supporting course creation, enrollment, video/content management, and progress tracking with instructor and student roles.
 
-> 📖 Course creation, enrollment & content management
-> 👨‍🏫 Instructor & student role separation
-> 📈 Progress tracking + video content delivery
-> 🏗️ Full MERN stack — REST APIs + JWT authentication
+- 📖 Course creation, enrollment, and content management
+- 👨‍🏫 Instructor and student role separation
+- 📈 Progress tracking with video content delivery
 
 </td>
 </tr>
@@ -380,32 +360,30 @@ Feature-rich ed-tech platform for online course delivery. Supports course creati
 <td width="50%" valign="top">
 
 ### 🧠 TinyBERT — Knowledge Distillation
-<a href="https://github.com/nilesh5566/TinyBert"><img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nilesh5566/TinyBert)
 
 **`Python` `PyTorch` `Knowledge Distillation` `NLP`**
 
-Knowledge distillation experiments compressing full BERT models into lightweight TinyBERT variants with minimal accuracy loss. Benchmarks size vs. performance trade-offs for production NLP in resource-constrained environments.
+Knowledge distillation experiments compressing full BERT models into lightweight TinyBERT variants with minimal accuracy loss, benchmarking size vs. performance trade-offs for production NLP.
 
-> 📦 Knowledge distillation pipeline: BERT → TinyBERT
-> ⚡ Significant model compression with minimal accuracy loss
-> 🏭 Faster inference for resource-constrained production NLP
-> 📏 Systematic benchmarking of size vs. performance
+- 📦 Knowledge distillation pipeline: BERT → TinyBERT
+- ⚡ Significant model compression with minimal accuracy loss
+- 📏 Systematic benchmarking of size vs. performance
 
 </td>
 <td width="50%" valign="top">
 
 ### 📖 SwapReads *(Open Source Contribution)*
-<a href="https://github.com/anuragverma108/SwapReads"><img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Open_Source-3DA639?style=for-the-badge&logo=opensourceinitiative&logoColor=white"/>
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anuragverma108/SwapReads)
+![Open Source](https://img.shields.io/badge/Open_Source-3DA639?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
 
 **`Open Source` `React` `Community`**
 
-Active contributor to **SwapReads** — an open-source book exchange community platform. Demonstrates real-world OSS collaboration: understanding large codebases, shipping clean PRs, and working with external maintainers.
+Active contributor to SwapReads, an open-source book exchange community platform — demonstrating real-world OSS collaboration, from understanding large codebases to shipping clean, reviewed PRs.
 
-> 🤝 Real open-source PR contributions merged
-> 📚 Book listing, discovery & community swap system
-> 🔧 Collaborating with external maintainers at scale
-> ✅ Clean PR workflow + codebase integration
+- 🤝 Merged PR contributions
+- 📚 Book listing, discovery, and community swap system
+- 🔧 Collaboration with external maintainers at scale
 
 </td>
 </tr>
@@ -413,13 +391,11 @@ Active contributor to **SwapReads** — an open-source book exchange community p
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## 📊 GitHub Statistics
 
 <div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nilesh5566&theme=tokyonight" width="100%"/>
 
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nilesh5566&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117" />
 <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=nilesh5566&theme=radical&hide_border=true&background=0d1117" />
 
 <br/><br/>
@@ -433,8 +409,6 @@ Active contributor to **SwapReads** — an open-source book exchange community p
 </div>
 
 ---
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🐍 Contribution Snake
 
@@ -450,8 +424,6 @@ Active contributor to **SwapReads** — an open-source book exchange community p
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## 🎓 Education
 
 <div align="center">
@@ -460,14 +432,14 @@ Active contributor to **SwapReads** — an open-source book exchange community p
 <tr>
 <td align="center" width="50%">
 <img src="https://img.shields.io/badge/IIIT_Allahabad-1E3A5F?style=for-the-badge&logo=academia&logoColor=white" /><br/><br/>
-<b>🎓 M.Tech — Information Technology</b><br/>
+<b>M.Tech — Information Technology</b><br/>
 <i>2025 – 2027 (Expected)</i><br/><br/>
 Advanced Software Engineering · System Design · Algorithms<br/>
 Cryptography · Distributed Systems · Network Security
 </td>
 <td align="center" width="50%">
 <img src="https://img.shields.io/badge/MMMUT-8B2500?style=for-the-badge&logo=academia&logoColor=white" /><br/><br/>
-<b>🎓 B.Tech — Mechanical Engineering</b><br/>
+<b>B.Tech — Mechanical Engineering</b><br/>
 <i>June 2021 – May 2025</i><br/><br/>
 Software Development · Data Structures · Problem Solving<br/>
 Object-Oriented Design · Database Management Systems
@@ -479,8 +451,6 @@ Object-Oriented Design · Database Management Systems
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## 💼 Experience
 
 <table>
@@ -488,64 +458,27 @@ Object-Oriented Design · Database Management Systems
 <td width="50%" valign="top">
 
 ### 🟢 GeeksforGeeks
-**Software Engineering Trainee** | `May 2024 – Sep 2024` | 🌐 Remote
+**Software Engineering Trainee** · May 2024 – Sep 2024 · 🌐 Remote
 
-```python
-experience = {
-  "problems_solved"  : "1000+",
-  "leetcode_rating"  : "Knight — Peak 1869",
-  "domains"          : [
-    "Graph Algorithms",
-    "Dynamic Programming",
-    "Advanced Data Structures",
-    "Design Patterns"
-  ],
-  "improvement"      : "40% in solution time complexity",
-  "techniques_mastered" : [
-    "Greedy Algorithms",
-    "Backtracking",
-    "Divide & Conquer",
-    "Sliding Window",
-    "Binary Search"
-  ]
-}
-```
+Completed intensive DSA training resulting in a **40% improvement** in average solution time complexity. Consistently solved problems across all difficulty levels, ultimately achieving **LeetCode Knight** rank with a peak contest rating of **1869**.
 
-Intensive DSA training resulting in a **40% improvement** in average solution time complexity. Consistently solved problems across all difficulty levels, ultimately achieving **LeetCode Knight** rank with a peak contest rating of **1869**.
+**Focus areas:** Graph Algorithms · Dynamic Programming · Advanced Data Structures · Design Patterns · Greedy Algorithms · Backtracking · Divide & Conquer · Sliding Window · Binary Search
 
 </td>
 <td width="50%" valign="top">
 
 ### 🔵 SAE — MMMUT
-**Technical Team Member** | `2022 – 2024` | 📍 Gorakhpur
+**Technical Team Member** · 2022 – 2024 · 📍 Gorakhpur
 
-```python
-impact = {
-  "hackathons_organized" : "5+",
-  "students_coordinated" : "100+",
-  "projects_deployed"    : "20+",
-  "roles"                : [
-    "Hackathon Event Organization",
-    "Peer Mentorship",
-    "Software Dev Best Practices",
-    "OOP & System Design Coaching"
-  ],
-  "outcome" : (
-    "20+ student projects shipped; "
-    "built a strong engineering culture"
-  )
-}
-```
+Led technical hackathon events for **100+ students**, resulting in **20+ production-level projects deployed** by participants. Mentored peers in software engineering best practices, OOP, and system design principles.
 
-Led technical hackathon events for 100+ students, resulting in **20+ production-level projects deployed** by participants. Mentored peers in software engineering best practices, OOP, and object-oriented design principles.
+**Focus areas:** Hackathon Organization (5+) · Peer Mentorship · Software Development Best Practices · OOP & System Design Coaching
 
 </td>
 </tr>
 </table>
 
 ---
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🏅 Achievements & Highlights
 
@@ -560,7 +493,7 @@ Led technical hackathon events for 100+ students, resulting in **20+ production-
 
 **Peak Rating: 1869**
 
-1000+ problems solved across LeetCode & Codeforces. Strong in Graphs, DP, Trees, Greedy, and Backtracking.
+1000+ problems solved across LeetCode and Codeforces, with strengths in Graphs, DP, Trees, Greedy, and Backtracking.
 
 </td>
 <td align="center" width="33%">
@@ -570,7 +503,7 @@ Led technical hackathon events for 100+ students, resulting in **20+ production-
 
 **85% WASM Speedup**
 
-NIST Kyber-1024 implementation with C → WebAssembly compilation. 3s → 500ms key generation in browser.
+NIST Kyber-1024 implementation with C → WebAssembly compilation, cutting browser key generation from 3s to 500ms.
 
 </td>
 <td align="center" width="33%">
@@ -580,7 +513,7 @@ NIST Kyber-1024 implementation with C → WebAssembly compilation. 3s → 500ms 
 
 **Active Contributor**
 
-PR contributions merged to SwapReads and multiple public repos. Clean code, documented PRs, collaborative workflow.
+Merged PR contributions to SwapReads and other public repositories, with clean, well-documented, collaborative workflows.
 
 </td>
 </tr>
@@ -590,58 +523,46 @@ PR contributions merged to SwapReads and multiple public repos. Clean code, docu
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🎯 Currently Working On
+## 🎯 What I'm Working On
 
 <div align="center">
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
-### 📚 Learning
-```yaml
-focus:
-  - Machine Learning 🧠
-  - Deep Learning & NLP
-  - Computer Vision
-  - Neural Networks (PyTorch)
-  - MLOps & Model Deployment
-  - Post-Quantum Cryptography
-  - Advanced System Design
-  - Distributed Systems
-```
+**📚 Learning**
+
+Machine Learning & Deep Learning<br/>
+NLP & Computer Vision<br/>
+Neural Networks (PyTorch)<br/>
+MLOps & Model Deployment<br/>
+Post-Quantum Cryptography<br/>
+Advanced System Design
 
 </td>
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
-### 🚀 Building
-```yaml
-projects:
-  - AI/ML models & experiments
-  - Scalable SaaS platforms
-  - Real-time AI-powered apps
-  - Cryptographic tooling
-  - Network security tooling
-  - Open source ML libraries
-  - WebAssembly experiments
-```
+**🚀 Building**
+
+AI/ML models & experiments<br/>
+Scalable SaaS platforms<br/>
+Real-time AI-powered apps<br/>
+Cryptographic tooling<br/>
+Network security tooling<br/>
+WebAssembly experiments
 
 </td>
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
-### 💡 Interests
-```yaml
-passion:
-  - AI / ML Engineering 🤖
-  - Deep Learning Research
-  - Competitive Programming
-  - Open Source Contribution
-  - Security Research
-  - Code Optimization
-  - Mentoring Students
-```
+**💡 Interested In**
+
+AI/ML Engineering<br/>
+Deep Learning Research<br/>
+Security Research<br/>
+Competitive Programming<br/>
+Open Source Contribution<br/>
+Mentoring Students
 
 </td>
 </tr>
@@ -651,7 +572,11 @@ passion:
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## 💭 Why This Work Matters to Me
+
+I gravitate toward problems where correctness and performance both matter — like compiling cryptographic primitives to WebAssembly so a browser can do post-quantum key exchange without ever touching a server, or building an ML-based intrusion detector that has to be both accurate and fast enough to run in real time. Building `pqc_Chat_App` and the Deauth Detection Dashboard taught me how to reason about security guarantees at a systems level, not just an application level — and TalentLaunch pushed me to think about product and scale: aggregating live data from 20 APIs and designing 26 AI tools that had to stay fast and reliable under real user load. Going forward, I'm applying that same rigor to ML and deep learning, with the goal of building systems that are secure, efficient, and genuinely useful.
+
+---
 
 ## 🤝 Let's Connect
 
@@ -664,10 +589,7 @@ passion:
 ![AI/ML Engineer](https://img.shields.io/badge/AI%2FML_Engineer-EF4444?style=flat-square)
 ![Open Source](https://img.shields.io/badge/Open_Source_Collabs-3DA639?style=flat-square)
 ![Cryptography](https://img.shields.io/badge/Cryptography_Research-6D28D9?style=flat-square)
-![AI/ML](https://img.shields.io/badge/AI%2FML_Projects-F59E0B?style=flat-square)
 ![Mentorship](https://img.shields.io/badge/Mentorship-0EA5E9?style=flat-square)
-
-<br/>
 
 <p>
   <a href="https://linkedin.com/in/nilesh5566">
@@ -679,9 +601,6 @@ passion:
   <a href="https://leetcode.com/u/nileshnayak656854/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" height="35"/>
   </a>
- <!-- <a href="https://codeforces.com/profile/nilesh5566">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white" height="35"/>
-  </a> -->
   <a href="mailto:nkn33785@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
   </a>
@@ -690,9 +609,9 @@ passion:
   </a>
 </p>
 
-<br/>
-
 ### 📞 +91-6394169461 &nbsp;|&nbsp; 📧 nkn33785@gmail.com
+
+If you're hiring for a full-stack, backend, or AI/ML role — or just want to talk cryptography, WebAssembly, or competitive programming — my inbox is open.
 
 <br/>
 
