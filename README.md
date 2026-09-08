@@ -162,8 +162,8 @@ A full-stack SaaS career platform aggregating **1,500+ live job listings** from 
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ Deauth Attack Detection Dashboard
-[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nilesh5566/deauth-detection)
+### 🛡️ Real-Time WiFi Attack Monitor & Packet Analyzer
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nilesh5566/Real-Time-WiFi-Attack-Monitor-Packet-Analyzer)
 ![Featured](https://img.shields.io/badge/FEATURED-FFD700?style=flat-square)
 
 **`Python` `Flask` `Scapy` `scikit-learn` `Socket.IO` `SQLite`**
@@ -199,7 +199,7 @@ A credit-based AI SaaS platform for automated background removal with **95% accu
 <td width="50%" valign="top">
 
 ### 🔐 RC4 Encryption Tool
-[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nilesh5566/rc4-tool)
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nilesh5566/rc4)
 
 **`Next.js` `C` `WebAssembly` `Tailwind CSS`**
 
@@ -214,7 +214,7 @@ An RC4 stream cipher implemented in C and compiled to **WebAssembly** for near-n
 <td width="50%" valign="top">
 
 ### 💬 Real-Time Chat Application
-[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nilesh5566/chat-app)
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nilesh5566/chat_app)
 
 **`Next.js` `Socket.io` `MongoDB` `NextAuth.js`**
 
@@ -297,20 +297,6 @@ A BERT-based deep learning system for detecting anomalies in system log data, mo
 <tr>
 <td width="50%" valign="top">
 
-### 📊 Sorting Algorithm Visualizer
-[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nilesh5566/Sorting-Visualizer)
-
-**`HTML5` `CSS3` `Vanilla JavaScript`**
-
-An interactive educational tool that animates 5 sorting algorithms step-by-step with adjustable speed and real-time comparison/swap counters — zero dependencies.
-
-- 🔵 Bubble, Merge, Quick, Insertion, and Selection sort
-- ⏱️ Adjustable speed with step-by-step mode
-- 📊 Real-time comparison and swap counters
-
-</td>
-<td width="50%" valign="top">
-
 ### 🔢 LeetCode Solutions Archive
 [![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nilesh5566/LeetCode)
 ![LeetCode Knight](https://img.shields.io/badge/LeetCode_Knight-1869_Peak-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
@@ -323,9 +309,6 @@ An organized archive of **1000+** solved LeetCode problems by topic and difficul
 - 🏆 LeetCode Knight — peak contest rating **1869**
 
 </td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
 ### 🔥 PYROSENSE — IoT Fire Detection
@@ -340,6 +323,9 @@ A real-time fire and smoke detection system with sensor data ingestion, threshol
 - 📱 Emergency notification dispatch (SMS / App)
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 ### 📚 Online Learning Platform
@@ -354,9 +340,6 @@ A feature-rich ed-tech platform for online course delivery, supporting course cr
 - 📈 Progress tracking with video content delivery
 
 </td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
 ### 🧠 TinyBERT — Knowledge Distillation
@@ -371,6 +354,9 @@ Knowledge distillation experiments compressing full BERT models into lightweight
 - 📏 Systematic benchmarking of size vs. performance
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 ### 📖 SwapReads *(Open Source Contribution)*
@@ -384,6 +370,92 @@ Active contributor to SwapReads, an open-source book exchange community platform
 - 🤝 Merged PR contributions
 - 📚 Book listing, discovery, and community swap system
 - 🔧 Collaboration with external maintainers at scale
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 Production Recommendation Engine
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nilesh5566/recsys-platform)
+![MIT License](https://img.shields.io/badge/License-MIT-3DA639?style=flat-square)
+
+**`Python` `FastAPI` `PyTorch` `scikit-learn` `Redis` `Kafka`**
+
+A two-stage recommender in the YouTube deep-retrieval-and-ranking mold: five candidate retrievers (popularity, item-kNN, content, ALS, PyTorch two-tower) narrow millions of items to ~500, then a gradient-boosted ranker with 27 features reorders the top 50 — served over FastAPI with sub-40ms latency, real-time Kafka event ingestion, and deterministic A/B assignment.
+
+- 🎯 Two-stage architecture: retrieval optimizes recall, ranking optimizes precision-at-top — the standard industry pattern for catalogues too large to score end-to-end
+- 📊 54 tests, full offline evaluation harness (Recall/NDCG/MAP/MRR@K), with results transparently reported including where the ranker *doesn't* win
+- ⚡ Live at 21–39ms per request; Kafka-driven real-time feature updates so a click changes recommendations without retraining
+- 🧪 Deterministic hash-bucketed A/B testing (`md5(experiment:user_id) % 100`) with an honest control arm for measuring the ranker's real lift
+- 🐳 Full Docker Compose stack (API + Redis + Postgres + Kafka), Prometheus-ready, multi-stage non-root image
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📈 Product Analytics & A/B Testing Platform
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nilesh5566/Product-Analytics-A-B-Testing-Platform)
+
+**`Python` `Pandas` `Statistics` `Experimentation`**
+
+A product analytics and experimentation platform for designing, running, and statistically evaluating A/B tests, with metrics tracking built in for product decision-making.
+
+- 🧪 A/B test design with power analysis and sample-size calculation
+- 📉 Statistical significance testing (t-tests, chi-square) on results
+- 📊 Product metrics dashboard for conversion and engagement tracking
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Distributed Job Queue
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nilesh5566/Distributed-job-queue)
+
+**`Java 17` `Spring Boot` `Redis` `Kafka` `PostgreSQL` `Docker`**
+
+A production-shaped job queue in the spirit of Celery, BullMQ, and SQS. Jobs are submitted over HTTP, executed by a horizontally scalable worker pool, and tracked on a live dashboard — surviving worker crashes, retrying with exponential backoff, and respecting per-queue priorities and rate limits.
+
+- ⚡ Four-tier Redis priority queues drained via a single Lua script; ZSET-backed delayed jobs and token-bucket rate limiting
+- 🔁 Exponential backoff with jitter, dead-letter queue, and idempotent submission via unique idempotency keys
+- 💓 TTL'd worker heartbeats with lease-based crash recovery — a dead worker's jobs are auto-reaped and requeued
+- 🛑 Cooperative cancellation via pub/sub interrupts and a per-job timeout watchdog
+- 📊 REST API (submit/cancel/replay/search), live dashboard, and Prometheus metrics
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🧩 CUE — Codebase Understanding Engine
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nilesh5566/Codebase-Understanding-Engine)
+
+**`Python` `FastAPI` `PyTorch` `React` `TypeScript` `PostgreSQL + pgvector`**
+
+AI-powered code intelligence: paste any public GitHub URL and CUE clones it, parses every file with tree-sitter, builds a NetworkX call/import graph, embeds every function and class, and serves an interactive force-directed code graph plus a RAG-powered "Ask AI" chat grounded in the actual source.
+
+- 🧠 Custom 2-layer Graph Convolutional Network (CodeGNN) built from scratch in PyTorch — trained self-supervised via contrastive link prediction to fold call-graph structure into code embeddings
+- 🔍 sentence-transformers embeddings (384-dim) stored in pgvector; RAG Q&A retrieves the top-8 most relevant code elements and answers using GPT-4o-mini with file:line citations
+- 🌍 Multi-language AST parsing via tree-sitter (Python, JS, TS, Java, Go) across an 8-step async pipeline: clone → parse → graph → embed → persist → analyze
+- 🏗️ Auto-detects architecture patterns (MVC/Layered/Microservices) and dead code via graph-reachability analysis, both rendered as interactive Mermaid/D3 diagrams
+- ✅ 46 passing tests across parsers, graph construction, dead-code detection, and mocked Q&A
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ mini-SOC — Threat Detection & Incident Response Platform
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nilesh5566/mini-soc-siem)
+![MIT License](https://img.shields.io/badge/License-MIT-3DA639?style=flat-square)
+
+**`Python` `FastAPI` `SQLAlchemy` `PostgreSQL` `Docker`**
+
+A working SIEM reference platform: log collection → correlation-based detection engine → MITRE ATT&CK-mapped, severity-scored alerts → analyst dashboard → incident case management, demoable end-to-end with zero API keys via a bundled synthetic log/attack generator.
+
+- 🎯 6 correlation detectors (brute force, password spraying, privilege escalation, port scanning, unusual-IP login, post-brute-force success) mapped to MITRE ATT&CK techniques
+- 🕒 Proper sliding time-window correlation — not naive `COUNT(*) WHERE timestamp > now() - X` — so bursts are caught wherever they occur in the data
+- 📊 Weighted severity scoring (rule confidence + IP reputation + volume + asset criticality → Low/Medium/High/Critical), with alert deduplication across repeat detections
+- ✅ 24 tests — every rule verified to fire on its attack pattern *and* stay silent on normal baseline traffic (explicit false-positive checks)
+- 🗺️ IP reputation enrichment (AbuseIPDB with deterministic mock fallback), kanban-style incident management, full-text log search
 
 </td>
 </tr>
@@ -574,7 +646,7 @@ Mentoring Students
 
 ## 💭 Why This Work Matters to Me
 
-I gravitate toward problems where correctness and performance both matter — like compiling cryptographic primitives to WebAssembly so a browser can do post-quantum key exchange without ever touching a server, or building an ML-based intrusion detector that has to be both accurate and fast enough to run in real time. Building `pqc_Chat_App` and the Deauth Detection Dashboard taught me how to reason about security guarantees at a systems level, not just an application level — and TalentLaunch pushed me to think about product and scale: aggregating live data from 20 APIs and designing 26 AI tools that had to stay fast and reliable under real user load. Going forward, I'm applying that same rigor to ML and deep learning, with the goal of building systems that are secure, efficient, and genuinely useful.
+I gravitate toward problems where correctness and performance both matter — like compiling cryptographic primitives to WebAssembly so a browser can do post-quantum key exchange without ever touching a server, or building an ML-based intrusion detector that has to be both accurate and fast enough to run in real time. Building `pqc_Chat_App` and the Real-Time WiFi Attack Monitor taught me how to reason about security guarantees at a systems level, not just an application level — and TalentLaunch pushed me to think about product and scale: aggregating live data from 20 APIs and designing 26 AI tools that had to stay fast and reliable under real user load. Going forward, I'm applying that same rigor to ML and deep learning, with the goal of building systems that are secure, efficient, and genuinely useful.
 
 ---
 
